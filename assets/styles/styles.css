@@ -56,5 +56,6 @@ nav-bg {
     /* Safari 3-8 */
     transform: scale(1.1);
 
-    border-color: yellowgreen;
+
+    border: 2px solid yellowgreen;
 }

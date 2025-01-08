@@ -1,0 +1,23 @@
+* {
+    border: 0;
+    padding: 0;
+}
+
+
+html,
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav-bg {
+    background-color: black;
+}
+
+.bg1 {
+    color: aliceblue;
+    /*  filter: hue-rotate(122deg); */
+
+    /* cursor transparente*/
+    caret-color: transparent;
+}
